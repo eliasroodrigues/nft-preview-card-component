@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Pages]()
+- Live Site URL: [GitHub Pages](https://eliasroodrigues.github.io/nft-preview-card-component/)
 
 ## My process
 
